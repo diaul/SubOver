@@ -47,7 +47,7 @@
 	{
 		"name":"cargocollective",
 		"cname":["cargocollective.com"],
-		"response":["404 Not Found"]
+		"response":["<title>404 &mdash; File not found</title>"]
 	},
 	{
 		"name":"statuspage",
