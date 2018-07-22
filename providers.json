@@ -107,7 +107,7 @@
 	{
 		"name":"pingdom",
 		"cname":["stats.pingdom.com"],
-		"response":["pingdom"]
+		"response":["<h2>Sorry, couldn&rsquo;t find the status page</h2>","<p>This could be because the account was cancelled, or maybe you slipped over the keyboard while typing the URL?</p>"]
 	},
 	{
 		"name":"tilda",
